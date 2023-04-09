@@ -8,7 +8,7 @@ This is a project that uses a Convolutional Neural Network (CNN) to classify ima
 * NumPy
 * OpenCV
 * Matplotlib
-* 
+
 # Dataset
 The dataset used in this project consists of 16000 images of cats and dogs, with 8000 images of each class. The images were downloaded from Kaggle and split into training and validation sets with a ratio of 80:20.
 
