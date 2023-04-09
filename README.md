@@ -1,7 +1,7 @@
 # Cat-and-Dog-Classifier
 This is a project that uses a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model was trained on 8000 images of cats and 8000 images of dogs.
 
-#Requirements
+* Requirements
 Python 3.x
 TensorFlow 2.x
 Keras 2.x
